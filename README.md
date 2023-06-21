@@ -29,7 +29,7 @@ Lo haremos de uno en uno.
 
 Reiniciaremos el Arduino IDE cargamos el firmware y solo queda subirlo.
 
-Para ver el resultado es necesario instalar eBlock. Desde este programa podrán comenzar a ejecutar codigo en direccto sin 
+Para ver el resultado es necesario instalar eBlock. Desde este programa podrán comenzar a ejecutar codigo en directo sin 
 necesidad de grabar el programa en la placa cada vez que modifiquemos.
 
 Subire en otros repositorios las nuevas extensiones que permiten usar el bluetooth integrado, los puestos tactiles,
@@ -38,4 +38,4 @@ servomotores y reproduccion rtttl.
 Espero ir añadiendo mas funcionalidades con el tiempo.
 
 Ademas preparare unos videos explicativos de todo el proceso (modificacion del firmware), su uso y las posibles mejoras
-mediante actualizacion de firmware y nuecas extensiones.
+mediante actualizacion de firmware y nuevas extensiones.
