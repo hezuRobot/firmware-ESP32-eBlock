@@ -12,7 +12,7 @@ el contenido que encuentre.
 
 Cuando finalice escribimos esp32 y esperamos a que nos muestre los resultados.
 
-Seleccionamos esp32 by espressive systems y le damos a instalar. Cuando termine cerramos y volvemos a abrir
+Seleccionamos esp32 by Espressif Systems y le damos a instalar. Cuando termine cerramos y volvemos a abrir
 el Arduino IDE.
 
 A continuacion vamos a Herramientas>Placa y selecionamos DOIT ESP32 DEVKIT V1.
