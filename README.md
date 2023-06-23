@@ -1,3 +1,5 @@
+Este firmware nos va a permitir interactuar en directo en eBlock (evolucion de mBlock 3 que es un entorno de programación por bloques).
+
 Tenemos que preparar Arduino IDE para poder grabar el firmware.
 
 Dentro de Arduino IDE nos vamos a Archivo>Preferencias.
