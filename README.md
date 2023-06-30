@@ -43,3 +43,5 @@ mediante actualización de firmware y nuevas extensiones.
 Os iré poniendo los enlaces a los videos segun los vaya publicando.
 
 Introducción: https://youtu.be/vhCAriDuhBk
+
+Uso del firmware: https://youtu.be/tp0-Xb8QxxM
